@@ -15,7 +15,7 @@ Join along to my journey into game development!
 ### 🧪 EXPERIENCE
 #### ⌨️ PROGRAMMING LANGUAGES 
 
-`C#` `C++` `Luau` `Java` `Javascript` `MySQL`
+`C#` `C++` `Luau` `Java` `Javascript` `MySQL` `HTML` `CSS`
 
 #### 💻 SOFTWARE
 
