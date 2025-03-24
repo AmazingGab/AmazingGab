@@ -1,4 +1,5 @@
-<img align="left" src="https://img.itch.zone/aW1nLzIwMjA3MTQ2LnBuZw==/original/aCe8xa.png"/> <br>
+<img height="100px" src="/banner.png"/>
+
 # 👋 WELCOME TO MY PROFILE
 
 ### 📋 ABOUT ME
