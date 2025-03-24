@@ -1,3 +1,4 @@
+<img align="left" src="https://img.itch.zone/aW1nLzIwMjA3MTQ2LnBuZw==/original/aCe8xa.png"/> <br>
 # 👋 WELCOME TO MY PROFILE
 
 ### 📋 ABOUT ME
@@ -9,15 +10,15 @@
 - Interested in games and programming
 
 Join along to my journey into game development!
-[![](https://visitcount.itsvg.in/api?id=amazinggab&icon=7&color=6)](https://visitcount.itsvg.in)
-
+<br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=amazinggab.amazinggab&left_color=darkslateblue&right_color=rebeccapurple&left_text=Views%20%F0%9F%91%80"/>
 <br>
 
 ### 🧪 EXPERIENCE
 #### ⌨️ PROGRAMMING LANGUAGES 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amazinggab&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amazinggab&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 #### 💻 SOFTWARE
 
@@ -34,5 +35,5 @@ Check out my links :)
 
 
 ### 📊 STATS
-![](https://nirzak-streak-stats.vercel.app/?user=amazinggab&theme=nightowl&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=amazinggab&theme=omni&hide_border=true)
 
