@@ -5,7 +5,7 @@
 ### 📋 ABOUT ME
 - I’m @AmazingGab or Gabrielius
 - He/Him
-- 20
+- 21
 - DkIT Student 
 - Studying Game Development
 - Interested in games and programming
