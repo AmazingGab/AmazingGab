@@ -32,7 +32,7 @@ Join along to my journey into game development!
 Check out my links :)
 | ⬇️ | ⬇️ | ⬇️ | ⬇️ |
 | --- | --- | --- | --- |
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mrswaggabe) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielius-mizutavicius/) | [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://amazinggab.itch.io/) | Discord: @mrswaggabe
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mrswaggabe) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielius-mizutavicius/) | [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://amazinggab.itch.io/) | [![My Website](https://img.shields.io/badge/My%20Website-8A2BE2)](https://amazinggab.me/)
 
 
 ### 📊 STATS
